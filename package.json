@@ -1,0 +1,26 @@
+{
+  "name": "cotp-bot",
+  "version": "1.0.0",
+  "description": "just a practicing bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antomuelle/cotp-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antomuelle/cotp-bot/issues"
+  },
+  "homepage": "https://github.com/antomuelle/cotp-bot#readme",
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "express": "^4.18.1"
+  }
+}
